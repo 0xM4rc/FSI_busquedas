@@ -15,4 +15,5 @@ Datas structrure is a storage that is used to store and manage data.
 In the base code, the stack and FIFO queue structures are provided as a starting point. These structures are used for the implementation of depth-first search (DFS) and breadth-first search (BFS), respectively.
 
 
-![imagen](https://upload.wikimedia.org/wikipedia/commons/e/e4/Lifo_stack.svg)
+
+![Lifo_stack svg](https://github.com/0xM4rc/FSI_busquedas/assets/140960974/00ef0a02-6c98-4bca-a85c-6e833db1b0b6.png)
