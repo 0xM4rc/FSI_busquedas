@@ -17,7 +17,7 @@ In the base code, the stack and FIFO queue structures are provided as a starting
 ## Stack
 
 ![imagen](https://github.com/0xM4rc/FSI_busquedas/assets/140960974/c2925024-8cdd-4837-ae16-baf84a05a6fe.png)  
-Source: [wikipedia.org](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)#/media/File:Lifo_stack.svg)
+Source: [wikipedia.org]([https://en.wikipedia.org/wiki/Stack_(abstract_data_type)#/media/File:Lifo_stack.svg](https://upload.wikimedia.org/wikipedia/commons/e/e4/Lifo_stack.svg))
 
 ## FIFO
 
