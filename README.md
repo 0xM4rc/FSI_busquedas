@@ -16,4 +16,4 @@ In the base code, the stack and FIFO queue structures are provided as a starting
 
 
 
-![imagen](https://github.com/0xM4rc/FSI_busquedas/assets/140960974/c2925024-8cdd-4837-ae16-baf84a05a6fe.png)
+![imagen](https://github.com/0xM4rc/FSI_busquedas/assets/140960974/c2925024-8cdd-4837-ae16-baf84a05a6fe.png){width=200px}
