@@ -14,3 +14,5 @@ For this project, the problem of Romania will be employed to apply the implement
 Datas structrure is a storage that is used to store and manage data. 
 In the base code, the stack and FIFO queue structures are provided as a starting point. These structures are used for the implementation of depth-first search (DFS) and breadth-first search (BFS), respectively.
 
+
+![imagen](https://upload.wikimedia.org/wikipedia/commons/e/e4/Lifo_stack.svg)
