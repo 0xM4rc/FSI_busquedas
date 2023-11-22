@@ -7,3 +7,4 @@ Besides employing branch and bound, a heuristic will be used to guide the search
 
 For this project, the problem of Romania will be employed to apply the implementation of branch and bound. This is a famous problem in artificial intelligence and heuristic search involving finding the shortest route between cities on a map of Romanian roads.
 
+![imagen](https://github.com/0xM4rc/FSI_busquedas/assets/140960974/95d150e8-6af7-411f-aa35-6a791b907f4a.png)
