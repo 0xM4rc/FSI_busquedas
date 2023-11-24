@@ -107,9 +107,10 @@ def graph_search(problem, fringe):
     The argument fringe should be an empty queue.
     If two paths reach a state, only use the best one. [Fig. 3.18]"""
     closed = {}
+
     global nodes_generated
-    fringe.append(Node(problem.initial))
     nodes_expanded = 0
+    fringe.append(Node(problem.initial))
     while fringe:
         node = fringe.pop()
         nodes_expanded += 1
@@ -121,6 +122,7 @@ def graph_search(problem, fringe):
         if node.state not in closed:
             closed[node.state] = True
             fringe.extend(node.expand(problem))
+
     print("Nodos generados = ", nodes_generated)
     print("Nodos expandidos = ", nodes_expanded)
     nodes_generated = 1
@@ -129,6 +131,7 @@ def graph_search(problem, fringe):
 
 def breadth_first_graph_search(problem):
     """Search the shallowest nodes in the search tree first. [p 74]"""
+
     start_time = time.time()
     ret = graph_search(problem, FIFOQueue())  # FIFOQueue -> fringe
     end_time = time.time()
@@ -139,6 +142,7 @@ def breadth_first_graph_search(problem):
 
 def depth_first_graph_search(problem):
     """Search the deepest nodes in the search tree first. [p 74]"""
+
     start_time = time.time()
     ret = graph_search(problem, Stack())
     end_time = time.time()
