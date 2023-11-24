@@ -107,7 +107,6 @@ def graph_search(problem, fringe):
     The argument fringe should be an empty queue.
     If two paths reach a state, only use the best one. [Fig. 3.18]"""
     closed = {}
-
     global nodes_generated
     nodes_expanded = 0
     fringe.append(Node(problem.initial))
